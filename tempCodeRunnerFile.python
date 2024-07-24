@@ -1,0 +1,2 @@
+thisset = {True,1,"bannana","strawberry","apple",2}
+print (thisset)
