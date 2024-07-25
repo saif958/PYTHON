@@ -1,3 +1,3 @@
-thisset = {"bannana","strawberry","apple"}
-print (thisset)
-print('hello world')
+cars  = ["volvo","mercedes","bmw"]
+for car in cars:
+  print(car)
