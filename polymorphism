@@ -1,0 +1,18 @@
+class Cat:
+    def __init__(self, sound):
+        self.sound = sound
+        print(sound)
+
+class Dog:
+    def __init__(self, sound):
+        self.sound = sound
+        print(sound)
+
+class Duck:
+    def __init__(self, sound):
+        self.sound = sound
+        print(sound)
+
+cat1 = Cat("meow")
+dog1 = Dog("woof")
+duck1 = Duck("quack")
