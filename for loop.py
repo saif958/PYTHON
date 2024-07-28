@@ -1,0 +1,7 @@
+for x in range (9):
+    print(x)
+x = 1 
+while x <= 10:
+    print(x)
+    x += 1
+    
